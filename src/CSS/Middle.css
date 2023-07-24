@@ -1,0 +1,48 @@
+.card{
+    margin-top: 200px;
+}
+
+.card-body{
+    text-align: center;
+    box-sizing: border-box;
+    border: 2px solid rgb(185, 185, 185);
+    
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-text{
+    text-align: center;
+}
+
+.card1{
+    box-sizing: border-box;
+    border: 2px solid rgb(185, 185, 185);
+    margin: 5px;
+    margin-top: 7px;
+    
+}
+
+.firstrow{
+    text-align: center;
+    box-sizing: border-box;
+    border: 2px solid rgb(185, 185, 185);
+    margin: 5px;
+}
+
+.secondrow{
+    text-align: center;
+    box-sizing: border-box;
+    border: 2px solid rgb(185, 185, 185);
+    margin: 5px;
+}
+
+.thirdrow{
+    text-align: center;
+    box-sizing: border-box;
+    border: 2px solid rgb(185, 185, 185);
+    margin: 5px;
+}
+
